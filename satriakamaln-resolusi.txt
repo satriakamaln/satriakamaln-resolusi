@@ -2,3 +2,5 @@ Satria K. Norsaid Resolusi
 - Framework CSS
 - Framework JS front end
 - JS Back End
+- membuat CRUD
+- punya mentor dan berkolaborasi dalam project
